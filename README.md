@@ -86,19 +86,19 @@ Enter choice: 5
 
 ## 🎓 Learning Outcomes
 
--🧠 Practiced implementing a Doubly Linked List from scratch
--💡 Applied DSA knowledge to build a practical CLI application
--🧰 Improved Python skills with modular code and OOP
--🧪 Learned how to simulate real-world tasks using basic data structures
+- 🧠 Practiced implementing a Doubly Linked List from scratch
+- 💡 Applied DSA knowledge to build a practical CLI application
+- 🧰 Improved Python skills with modular code and OOP
+- 🧪 Learned how to simulate real-world tasks using basic data structures
 
 ---
 
-##🌟 Future Improvements
+## 🌟 Future Improvements
 
--🔀 Add Merge Sort to order tasks by priority or deadline
--💾 Save and load tasks from a file using JSON or text
--🖥️ Add GUI version using Tkinter
--🎨 Use rich or colorama for improved CLI visuals
--📅 Add deadline and reminder functionality
+- 🔀 Add Merge Sort to order tasks by priority or deadline
+- 💾 Save and load tasks from a file using JSON or text
+- 🖥️ Add GUI version using Tkinter
+- 🎨 Use rich or colorama for improved CLI visuals
+- 📅 Add deadline and reminder functionality
 
 
