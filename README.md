@@ -51,8 +51,11 @@ This CLI-based Task Manager allows users to manage their to-do items using the u
 ## 📂 Project Structure
 
 task_manager_linkedlist/
+
 ├── doubly_linked_list.py # Contains Node, Task, and DoublyLinkedList classes
+
 ├── manager.py # CLI logic for user interaction
+
 └── README.md # Project documentation
 
 ---
@@ -68,34 +71,34 @@ task_manager_linkedlist/
 6. Exit
 
 Enter choice: 1
+
 Title: Finish DSA Project
+
 Priority (High/Medium/Low): High
+
 Enter choice: 5
+
 [ ] Finish DSA Project — Priority: High
+
 [x] Attend Lecture — Priority: Medium
 
 ---
-🎓 Learning Outcomes
 
-🧠 Practiced implementing a Doubly Linked List from scratch
+## 🎓 Learning Outcomes
 
-💡 Applied DSA knowledge to build a practical CLI application
-
-🧰 Improved Python skills with modular code and OOP
-
-🧪 Learned how to simulate real-world tasks using basic data structures
+-🧠 Practiced implementing a Doubly Linked List from scratch
+-💡 Applied DSA knowledge to build a practical CLI application
+-🧰 Improved Python skills with modular code and OOP
+-🧪 Learned how to simulate real-world tasks using basic data structures
 
 ---
-🌟 Future Improvements
 
-🔀 Add Merge Sort to order tasks by priority or deadline
+##🌟 Future Improvements
 
-💾 Save and load tasks from a file using JSON or text
-
-🖥️ Add GUI version using Tkinter
-
-🎨 Use rich or colorama for improved CLI visuals
-
-📅 Add deadline and reminder functionality
+-🔀 Add Merge Sort to order tasks by priority or deadline
+-💾 Save and load tasks from a file using JSON or text
+-🖥️ Add GUI version using Tkinter
+-🎨 Use rich or colorama for improved CLI visuals
+-📅 Add deadline and reminder functionality
 
 
